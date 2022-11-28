@@ -29,7 +29,7 @@ const VideoCard = () => {
             id="video-cover"
             src={image}
             alt="Video title"
-            className="w-full cursor-pointer"
+            className="w-full cursor-pointer rounded-lg"
           />
 
           <button id="play" className="play-btn z-50">
